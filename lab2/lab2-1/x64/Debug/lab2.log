@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (lab2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  task1.c
+C:\Users\virys\source\repos\test2\lab2\task1.c(27,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+C:\Users\virys\source\repos\test2\lab2\task1.c(27,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "double"
+C:\Users\virys\source\repos\test2\lab2\task1.c(27,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "3" имеет тип "double"
+  lab2.vcxproj -> C:\Users\virys\source\repos\test2\x64\Debug\lab2-1.exe
